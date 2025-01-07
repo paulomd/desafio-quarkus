@@ -1,7 +1,7 @@
 # desafio-objective
 
 Esse projeto usa Quarkus, the Supersonic Subatomic Java Framework.
-Está sendo utilizado o bando em memória H2.
+Está sendo utilizado o banco em memória H2.
 
 Para saber mais sobre Quarkus visite <https://quarkus.io/>.
 
