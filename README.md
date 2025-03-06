@@ -1,4 +1,4 @@
-# desafio-objective
+# desafio-quarkus
 
 Esse projeto usa Quarkus, the Supersonic Subatomic Java Framework.
 Está sendo utilizado o banco em memória H2.
@@ -14,8 +14,8 @@ Para saber mais sobre Quarkus visite <https://quarkus.io/>.
 
 ## Rodando a aplicação em modo de desenvolvimento
 ```shell script
-git clone https://github.com/paulomd/desafio-objective.git
-cd desafio-objective/
+git clone https://github.com/paulomd/desafio-quarkus.git
+cd desafio-quarkus/
 mvn quarkus:dev
 ```
 
